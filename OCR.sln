@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCR", "OCR\OCR.csproj", "{486E7158-D6E5-4D9E-B667-773E3CBF2E83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCRHelper1", "OCRHelper1\OCRHelper1.csproj", "{E6AFDA4A-4172-4618-AD80-6F60891FCE5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCRHelper2", "OCRHelper2\OCRHelper2.csproj", "{A0A3C61F-3EB8-4ADC-9882-33B5997FA1C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{486E7158-D6E5-4D9E-B667-773E3CBF2E83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{486E7158-D6E5-4D9E-B667-773E3CBF2E83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{486E7158-D6E5-4D9E-B667-773E3CBF2E83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{486E7158-D6E5-4D9E-B667-773E3CBF2E83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6AFDA4A-4172-4618-AD80-6F60891FCE5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6AFDA4A-4172-4618-AD80-6F60891FCE5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6AFDA4A-4172-4618-AD80-6F60891FCE5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6AFDA4A-4172-4618-AD80-6F60891FCE5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0A3C61F-3EB8-4ADC-9882-33B5997FA1C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A3C61F-3EB8-4ADC-9882-33B5997FA1C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A3C61F-3EB8-4ADC-9882-33B5997FA1C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A3C61F-3EB8-4ADC-9882-33B5997FA1C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
